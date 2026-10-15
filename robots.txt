@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Démonstration : retirer cette règle et la balise meta robots (index.html, mentions-legales.html) à la vraie mise en ligne.
